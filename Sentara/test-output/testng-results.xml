@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121" started-at="2019-06-08T10:29:28Z" finished-at="2019-06-08T10:29:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121" started-at="2019-06-08T10:29:28Z" finished-at="2019-06-08T10:29:28Z">
+      <class name="testNG.SampleTestNG">
+        <test-method status="PASS" signature="suite()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="suite" is-config="true" duration-ms="31" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="beforetest" is-config="true" duration-ms="0" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="bClass()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="bClass" is-config="true" duration-ms="0" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="bmethod" is-config="true" duration-ms="1" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="demo" duration-ms="16" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="amethod" is-config="true" duration-ms="1" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="bmethod()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="bmethod" is-config="true" duration-ms="1" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method status="PASS" signature="demo1()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="demo1" duration-ms="4" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="amethod()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="amethod" is-config="true" duration-ms="1" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="aftertest" is-config="true" duration-ms="5" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:testNG.SampleTestNG@7e0b0338]" name="aftersuite" is-config="true" duration-ms="1" started-at="2019-06-08T15:59:28Z" finished-at="2019-06-08T15:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- testNG.SampleTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
